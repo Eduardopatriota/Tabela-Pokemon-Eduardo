@@ -18,3 +18,11 @@ td, th {
 #sta{
     background-color: rgb(242, 220, 219);
 }
+
+.filtro {
+    display: block;
+    width: 50%;
+  }
+
+ 
+  
